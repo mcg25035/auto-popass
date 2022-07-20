@@ -48,7 +48,7 @@ MainWindow::MainWindow(QWidget *parent)
     pop_cat();
     QTimer* timer = new QTimer(this);
     QObject::connect(timer,SIGNAL(timeout()) ,this, SLOT(pop_cat()));
-    timer->start(100);
+    timer->start(5000);
 
 }
 
