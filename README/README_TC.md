@@ -1,5 +1,5 @@
  
-# <img src="https://media.discordapp.net/attachments/879008540839256134/999358026429509714/unknown.png" width=48> **Auto Popcat**
+# <img src="https://media.discordapp.net/attachments/879008540839256134/999358026429509714/unknown.png" width=48> **Auto Popass**
 <br>
 ❕ 本 README.md 是專案最後一次維護(2021/08/17)的兩年後添加上去的 <br>
 ❗ 現在 popass 網站停止服務了 <br>
